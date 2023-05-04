@@ -1,11 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://wijayatech.my.id)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://wijayatech.my.id)
 <h1 align="center">Hi 👋, I'm hendra wijaya saputra</h1>
 <h5 align="center">
   As a full-stack web engineer, I have the ability to work on both the front-end and back-end of web development. This means that I am skilled in designing and developing the user-facing elements of a website, as well as the underlying code and databases that power it. I have experience with a range
   of programming languages, frameworks, and tools, and can deliver a complete solution that meets the needs of your project. My goal is to create a seamless and user-friendly experience for your website visitors, while also ensuring the functionality and scalability of the underlying technology.
 </h5>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" align="right">
-<p align="left"><img src="https://komarev.com/ghpvc/?username=hendraws&label=Profile%20views&color=0e75b6&style=flat" alt="hendraws" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=hendraws&label=Profile%20views&color=0e75b6&style=flat" alt="hendraws" width="400" /></p>
 
 - 🌱 I’m currently learning **PHP, JavaScript, nextJs,ReactJs, Laravel, CodeIgniter** <br>
 - 👨‍💻 All of my projects are available at [https://wijayatech.my.id](https://wijayatech.my.id) <br>

@@ -1,10 +1,16 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://wijayatech.my.id)
 <h1 align="center">Hi 👋, I'm hendra wijaya saputra</h1>
 <h5 align="center">
   As a full-stack web engineer, I have the ability to work on both the front-end and back-end of web development. This means that I am skilled in designing and developing the user-facing elements of a website, as well as the underlying code and databases that power it. I have experience with a range
   of programming languages, frameworks, and tools, and can deliver a complete solution that meets the needs of your project. My goal is to create a seamless and user-friendly experience for your website visitors, while also ensuring the functionality and scalability of the underlying technology.
 </h5>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" align="right">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=hendraws&label=Profile%20views&color=0e75b6&style=flat" alt="hendraws" /></p>
 
-- 🌱 I’m currently learning **PHP, JavaScript, nextJs,ReactJs, Laravel, CodeIgniter** <br/>- 👨‍💻 All of my projects are available at [https://wijayatech.my.id](https://wijayatech.my.id) <br/>- 💬 Ask me about **PHP, Laravel** <br/>- 📫 How to reach me **saputra.hendrawijaya@gmail.com**
+- 🌱 I’m currently learning **PHP, JavaScript, nextJs,ReactJs, Laravel, CodeIgniter** <br>
+- 👨‍💻 All of my projects are available at [https://wijayatech.my.id](https://wijayatech.my.id) <br>
+- 💬 Ask me about **PHP, Laravel** <br>
+- 📫 How to reach me **saputra.hendrawijaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
@@ -34,3 +40,9 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hendraws&show_icons=true&locale=en&layout=compact" alt="hendraws" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hendraws&show_icons=true&locale=en" alt="hendraws" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hendraws&" alt="hendraws" /></p>

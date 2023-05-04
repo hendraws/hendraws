@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm hendra wijaya saputra</h1>
-<h3 align="center">
+<h5 align="center">
   As a full-stack web engineer, I have the ability to work on both the front-end and back-end of web development. This means that I am skilled in designing and developing the user-facing elements of a website, as well as the underlying code and databases that power it. I have experience with a range
   of programming languages, frameworks, and tools, and can deliver a complete solution that meets the needs of your project. My goal is to create a seamless and user-friendly experience for your website visitors, while also ensuring the functionality and scalability of the underlying technology.
-</h3>
+</h5>
 
-- 🌱 I’m currently learning **PHP, JavaScript, nextJs,ReactJs, Laravel, CodeIgniter** - 👨‍💻 All of my projects are available at [wijayatech.my.id](wijayatech.my.id) - 📝 I regularly write articles on [blog.wijayatech.my.id](blog.wijayatech.my.id) - 💬 Ask me about **PHP, Laravel** - 📫 How to reach
-me **saputra.hendrawijaya@gmail.com** - 📄 Know about my experiences [wijayatech.my.id](wijayatech.my.id)
+- 🌱 I’m currently learning **PHP, JavaScript, nextJs,ReactJs, Laravel, CodeIgniter** - 👨‍💻 All of my projects are available at [https://wijayatech.my.id](https://wijayatech.my.id) - 💬 Ask me about **PHP, Laravel** - 📫 How to reach me **saputra.hendrawijaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
@@ -26,9 +25,7 @@ me **saputra.hendrawijaya@gmail.com** - 📄 Know about my experiences [wijayate
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" /> </a>
   <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" /> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" /> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>

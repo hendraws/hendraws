@@ -4,7 +4,7 @@
   of programming languages, frameworks, and tools, and can deliver a complete solution that meets the needs of your project. My goal is to create a seamless and user-friendly experience for your website visitors, while also ensuring the functionality and scalability of the underlying technology.
 </h5>
 
-- 🌱 I’m currently learning **PHP, JavaScript, nextJs,ReactJs, Laravel, CodeIgniter** - 👨‍💻 All of my projects are available at [https://wijayatech.my.id](https://wijayatech.my.id) - 💬 Ask me about **PHP, Laravel** - 📫 How to reach me **saputra.hendrawijaya@gmail.com**
+- 🌱 I’m currently learning **PHP, JavaScript, nextJs,ReactJs, Laravel, CodeIgniter** <br/>- 👨‍💻 All of my projects are available at [https://wijayatech.my.id](https://wijayatech.my.id) <br/>- 💬 Ask me about **PHP, Laravel** <br/>- 📫 How to reach me **saputra.hendrawijaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
